@@ -4,5 +4,8 @@ td, th {
 .images {
 	width: 20px;
 }
+th {
+	font-family: 'Foldit', Cochin, serif;
+}
 	
   
