@@ -1,8 +1,8 @@
-title {
+h1 {
 	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
 }
 td, th {
-	border: 2px solid;
+	border: 3px solid;
   }
 th {
 	font-size: 40px;
@@ -13,7 +13,6 @@ th {
 }
 .vertical {
 	font-size: 40px;
-	font-weight: bold;
 	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
 }
 .data {
