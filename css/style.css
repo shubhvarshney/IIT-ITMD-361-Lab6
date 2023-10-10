@@ -27,6 +27,8 @@ th {
 	font-weight: bold;
 	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
 	color: #4984B8;
+	width: 80px;
+	padding: 10px;
 }
 .data {
 	font-size: 30px;
