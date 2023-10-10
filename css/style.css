@@ -1,8 +1,11 @@
+title {
+	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
+}
 td, th {
 	border: 2px solid;
   }
 .images {
-	width: 40px;
+	width: 80px;
 }
 th {
 	font-size: 40px;
