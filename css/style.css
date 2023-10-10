@@ -4,15 +4,16 @@ title {
 td, th {
 	border: 2px solid;
   }
-.images {
-	width: 80px;
-}
 th {
 	font-size: 40px;
 	font-family: 'Foldit', Cochin, serif;
 }
+.images {
+	width: 80px;
+}
 .vertical {
 	font-size: 40px;
+	font-weight: bold;
 	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
 }
 .data {
