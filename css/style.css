@@ -19,11 +19,14 @@ th {
 .images {
 	width: 80px;
 	padding: 20px;
+	text-align: center;
+	position: relative;
 }
 .vertical {
 	font-size: 40px;
 	font-weight: bold;
 	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
+	color: #4984B8;
 }
 .data {
 	font-size: 30px;
