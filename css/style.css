@@ -3,6 +3,7 @@ body {
 }
 #planets {
   margin: auto;
+  border: 3px solid;
 }
 h1 {
   font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
@@ -13,7 +14,7 @@ h1 {
   position: relative;
 }
 td, th {
-  border: 3px solid;
+  border: 3px dashed;
   border-color: coral;
   text-align: center;
   position: relative;
