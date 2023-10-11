@@ -49,11 +49,6 @@ th {
   font-family: 'Tilt Prism', Cochin, serif;
   background-color: #FDFD96;
 }
-#img_row {
-  border: 5px;
-  border-style: dashed;
-  border-color: #CF524E;
-}
 #italicize {
   font-style: italic;
 }
