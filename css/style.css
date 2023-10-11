@@ -21,7 +21,7 @@ h1 {
 }
 td, th {
   border: 3px
-  border-style: dashed;
+  border-style: dotted;
   border-color: coral;
   position: relative;
   text-align: center;
