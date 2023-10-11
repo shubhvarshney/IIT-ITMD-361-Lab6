@@ -3,7 +3,8 @@ body {
 }
 #planets {
   margin: auto;
-  border: 3px solid;
+  border: 3px;
+  border-style: solid;
   border-color: #0ABAB5;
 }
 h1 {
@@ -11,11 +12,16 @@ h1 {
   font-size: 60px;
   margin: 40px;
   color: #228B22;
+  border: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #CCCCFF;
   position: relative;
   text-align: center;
 }
 td, th {
-  border: 3px dashed;
+  border: 3px
+  border-style: dashed;
   border-color: coral;
   position: relative;
   text-align: center;
@@ -44,7 +50,8 @@ th {
   background-color: #FDFD96;
 }
 #img_row {
-  border: 5px dashed;
+  border: 5px;
+  border-style: dashed;
   border-color: #CF524E;
 }
 #italicize {
