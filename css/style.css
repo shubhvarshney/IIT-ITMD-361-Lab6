@@ -29,11 +29,11 @@ th {
   position: relative;
 }
 .vertical {
-  font-size: 120px;
+  font-size: 40px;
   font-weight: bold;
   font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
   color: #4984B8;
-  width: 80px;
+  width: 160px;
   padding: 10px;
 }
 .data {
