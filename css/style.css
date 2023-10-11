@@ -20,7 +20,7 @@ h1 {
   text-align: center;
 }
 td, th {
-  border: 3px
+  border: 3px;
   border-style: dotted;
   border-color: coral;
   position: relative;
