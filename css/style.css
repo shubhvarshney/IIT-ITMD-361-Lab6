@@ -1,3 +1,6 @@
+body {
+	background-color: #FFF685;
+}
 h1 {
 	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
 	font-size: 60px;
@@ -23,7 +26,7 @@ th {
 	position: relative;
 }
 .vertical {
-	font-size: 40px;
+	font-size: 120px;
 	font-weight: bold;
 	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
 	color: #4984B8;
