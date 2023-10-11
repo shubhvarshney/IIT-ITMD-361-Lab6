@@ -4,6 +4,7 @@ body {
 #planets {
   margin: auto;
   border: 3px solid;
+  border-color: #0ABAB5;
 }
 h1 {
   font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
