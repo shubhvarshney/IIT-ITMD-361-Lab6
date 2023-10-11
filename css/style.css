@@ -1,6 +1,10 @@
 body {
 	background-color: #FFF685;
 }
+#planets {
+	margin-left: auto;
+	margin-right: auto;
+}
 h1 {
 	font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
 	font-size: 60px;
