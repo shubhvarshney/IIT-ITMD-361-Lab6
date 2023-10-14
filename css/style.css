@@ -1,12 +1,14 @@
 body {
   background-color: #FFF685;
 }
+
 #planets {
   margin: auto;
   border: 3px;
   border-style: solid;
   border-color: #0ABAB5;
 }
+
 h1 {
   font-family: 'Sofia Sans Extra Condensed', Cochin, serif;
   font-size: 60px;
@@ -19,6 +21,7 @@ h1 {
   position: relative;
   text-align: center;
 }
+
 td, th {
   border: 3px;
   border-style: dotted;
@@ -26,16 +29,19 @@ td, th {
   position: relative;
   text-align: center;
   }
+
 th {
   font-size: 40px;
   font-family: 'Foldit', Cochin, serif;
 }
+
 .images {
   width: 80px;
   padding: 20px;
   position: relative;
   text-align: center;
 }
+
 .vertical {
   font-size: 40px;
   font-weight: bold;
@@ -44,16 +50,19 @@ th {
   width: 240px;
   padding: 10px;
 }
+
 .data {
   font-size: 30px;
   font-family: 'Tilt Prism', Cochin, serif;
   background-color: #FDFD96;
 }
+
 #earth {
   border: 5px;
   border-style: dashed;
   border-color: #CF524E;
 }
+
 #italicize {
   font-style: italic;
 }
